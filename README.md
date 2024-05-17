@@ -9,7 +9,7 @@
 
 * 📫 You can reach out to me via [Email](mailto:maintech@protonmail.com), [Reddit](https://www.reddit.com/user/MR_n1C0LA2/), or [LinkedIn](https://www.linkedin.com/in/sobhi-raid/), whether it's for collaboration opportunities, questions, or just to say hi!
 
-* ⚡ **only limit is your mind**
+* ⚡ **Only limit is your mind**
 
 ## 📝 My GitHub Stats
 ![mintech's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintech-dot&show_icons=true&theme=dark)
